@@ -6,7 +6,7 @@
 ![](https://github.com/hussyn-Ehtesham/skills-introduction-to-github/actions/workflows/3-open-a-pull-request.yml/badge.svg)
 ![](https://github.com/hussyn-Ehtesham/skills-introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
 
-_Get started using GitHub in less than an hour._
+_editted._
 
 ## Welcome
 
